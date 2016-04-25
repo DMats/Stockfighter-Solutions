@@ -4,5 +4,5 @@ This repository contains my personal attempts to solve the Stockfighter programm
 
 
 ## Dependencies
-* [Requests](http://requests.readthedocs.org/en/master/)
+* [Requests](http://requests.readthedocs.org/en/master/) - an Apache2 Licensed HTTP library
 
